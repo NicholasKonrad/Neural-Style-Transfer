@@ -32,4 +32,3 @@ Feel free to contribute to this project. You may start a discussion first, thoug
 ## License
 
 MIT License
-
