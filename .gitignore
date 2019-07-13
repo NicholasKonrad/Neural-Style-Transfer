@@ -1,0 +1,12 @@
+node_modules/
+src/bundle.js
+src/*.js.map
+build/
+bower_components/
+
+npm-debug.log
+.DS_Store
+dist/
+.idea/
+
+*~
